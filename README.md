@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- A full stack python/Django developer love to design web app kepp them as simple as possible.
+- A full stack python/Django developer love to design web app keep them as simple as possible.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 👯 I’m looking to collaborate on Web Dev projects
 
