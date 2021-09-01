@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - A full stack python/Django developer love to design web app keep them as simple as possible.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 👯 I’m looking to collaborate on Web Dev projects   
-<!--
+
 <h2 align="center">🛠️ Languages & Frameworks</h2>
-<!--
+
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
