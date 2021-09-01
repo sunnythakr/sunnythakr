@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
 
 
-<!--
+
 - A full stack python/Django developer love to design web app keep them as simple as possible.
 - I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - 👯 I’m looking to collaborate on Web Dev projects   
