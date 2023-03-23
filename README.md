@@ -5,7 +5,14 @@
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
 
 
@@ -15,9 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- A full stack python/Django developer love to design web app keep them as simple as possible.
-- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- 👯 I’m looking to collaborate on Web Dev projects   
+- Currently working in TCS as a Android Developer   
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
