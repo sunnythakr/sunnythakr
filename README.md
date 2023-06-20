@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- Currently working in TCS as a Android Developer   
+- Currently working in TCS as an AOSP Developer   
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 
