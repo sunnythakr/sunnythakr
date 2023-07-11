@@ -1,12 +1,10 @@
-<h1 align="center"> <img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h1>
-
-<h1 align='center'>
- Sunny Thakur:man_technologist:!
-</h1>
-
-<h2 align='center'>
-  I'm currently working as an Associate System Engineer at TCS.
+<h2>
+ S2nny Thakur:man_technologist:!
 </h2>
+
+<h4 align='center'>
+  I'm currently working as an Associate System Engineer at TCS.
+</h4>
 <!--<!-- Begin Stats Cards -->
 
 ![Sunny Thakur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunnythakr&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
