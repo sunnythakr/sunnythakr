@@ -14,6 +14,6 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythakr&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythakr&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=sunnythakr&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
