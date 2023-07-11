@@ -19,6 +19,3 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnythakr&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnythakr&show_icons=true&locale=en" alt="sunnythakr" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnythakr&" alt="sunnythakr" /></p> -->
