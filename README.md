@@ -48,8 +48,6 @@
 <!--Language and tools ends here -->
 <!--<!-- Begin Stats Cards -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunnythakr&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="SunnyThakur" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnythakr&show_icons=true&locale=en&theme=tokyonight" alt="SunnyThakur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunnythakr&&theme=tokyonight" alt="SunnyThakur" /></p>
