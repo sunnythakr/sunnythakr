@@ -6,7 +6,7 @@
   I'm currently working as an Associate System Engineer at TCS.
 </h4>
 <!-- Language and tools -->
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -45,7 +45,7 @@
   <br>
    <br>
     <br>
-<!--Language and tools ends here --> -->
+<!--Language and tools ends here -->
 <!--<!-- Begin Stats Cards -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunnythakr&show_icons=true&locale=en&theme=tokyonight" alt="SunnyThakur" /></p>
