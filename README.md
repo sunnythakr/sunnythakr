@@ -1,7 +1,6 @@
 <h2>
  Sunny Thakur:man_technologist:!
 </h2>
-
 <h4>
   I'm currently working as an Associate System Engineer at TCS.
 </h4>
